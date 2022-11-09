@@ -1,3 +1,3 @@
-#lostotaku.com
+#bellandari.com
 
-This is just my blog. 
+A collection of short stories. 
