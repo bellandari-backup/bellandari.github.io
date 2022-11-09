@@ -1,7 +1,7 @@
 site: bellandari.com
 url: https://www.bellandari.com
 title: bellandari.com
-description: "A collection of Bellandari stories"
+description: 
 googlewebfonts: Fira+Code:wght@400;500;700
 permalink: pretty
 baseurl: ""
